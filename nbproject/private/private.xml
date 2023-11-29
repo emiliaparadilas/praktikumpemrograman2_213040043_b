@@ -5,16 +5,11 @@
         <group>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/main/Main.java</file>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/biodata/Biodata.java</file>
-            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/biodata/ModelTable.java</file>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/actionlistener/UbahActionListener.java</file>
-            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/actionlistener/HapusActionListener.java</file>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/actionlistener/CloseWindowActionListener.java</file>
-            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/actionlistener/SimpanUbahActionListener.java</file>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/biodata/BiodataFrame.java</file>
-            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/actionlistener/SaveToFileActionListener.java</file>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/db/MySqlConnection.java</file>
             <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/dao/BiodataDao.java</file>
-            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/biodata/src/actionlistener/SimpanActionListener.java</file>
         </group>
     </open-files>
 </project-private>
